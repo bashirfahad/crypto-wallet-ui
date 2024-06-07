@@ -5,11 +5,23 @@ A secure and user-friendly cryptocurrency wallet built using Flutter.
 ## Overview
 This Flutter app provides a simple and intuitive interface for managing cryptocurrency transactions. It allows users to send, receive, and track their cryptocurrency balances. The app is designed to be secure, with robust encryption and secure storage of private keys.
 ## Features
- Multi-Currency Support: Supports a variety of cryptocurrencies, including Bitcoin, Ethereum, and more.
- Secure Transactions: Ensures secure transactions by using robust encryption and secure storage of private keys.
- User-Friendly Interface: Provides an intuitive and user-friendly interface for managing cryptocurrency transactions.
- Real-Time Balances: Displays real-time balances for each cryptocurrency.
- Transaction History: Allows users to view a history of their transactions.
+
+ ### Multi-Currency Support: 
+ Supports a variety of cryptocurrencies, including Bitcoin, Ethereum, and more.
+ 
+ ### Secure Transactions: 
+ Ensures secure transactions by using robust encryption and secure storage of private keys.
+ 
+ ### User-Friendly Interface:
+ Provides an intuitive and user-friendly interface for managing cryptocurrency transactions.
+ 
+ ### Real-Time Balances:
+ Displays real-time balances for each cryptocurrency.
+ 
+### Transaction History:
+Allows users to view a history of their transactions.
+
+
 ## Getting Started
 To get started with the app, follow these steps:
 ## Clone the Repository: 
